@@ -307,6 +307,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FPS Overlay UI
       objectReference: {fileID: 0}
+    - target: {fileID: 85097727426779475, guid: 523386755330448b19a21a0dfa93a499, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 85097727426779487, guid: 523386755330448b19a21a0dfa93a499, type: 3}
       propertyPath: m_Pivot.x
       value: 0
