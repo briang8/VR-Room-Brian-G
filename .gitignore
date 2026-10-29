@@ -1,0 +1,46 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.utmp/
+
+# IDE and local tooling
+.vs/
+.vscode/*
+!.vscode/settings.json
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Unity generated metadata and caches
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crash reports and local builds
+crashlytics-build.properties
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# Asset import and build output caches
+Assets/StreamingAssets/aa/*
+Assets/AddressableAssetsData/*/bin/*
+Assets/AddressableAssetsData/*/obj/*
