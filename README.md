@@ -41,7 +41,6 @@ A room-scale VR project built in Unity. It includes the completed **Create with 
 | 1 | `Assets/Scenes/VR Room - Brian G` | Brian Room (course project) |
 | 2 | `Assets/Unity - VR Room/Assets/Scenes/VR Room` | VR Room |
 
-**Sound in the headset over Link / Air Link:** set the Windows sound output to the Quest / Oculus Virtual Audio Device. In the Meta Quest Link app, set *Audio output in VR* to the headset.
 
 ## Controls
 
